@@ -1,5 +1,5 @@
 # Social-Engineering
-
+( <br> )
 
 📊 Social engineering is behind a staggering percentage of cyber breaches — depending on how it's defined, estimates range from 60% to 90%.
 Here’s a breakdown of key stats from recent 2025 reports:
@@ -9,7 +9,7 @@ Here’s a breakdown of key stats from recent 2025 reports:
 - Over 80% of data breaches involve human error, often triggered by social engineering
 💡 These numbers highlight that human behavior is often the weakest link in cybersecurity — not the tech itself. That’s why awareness training, phishing simulations, and behavioral analytics are now considered essential layers of defense.
 
-
+ ( <br> )
 
 ---
 
@@ -18,7 +18,7 @@ Here’s a breakdown of key stats from recent 2025 reports:
   
   
 [Staff Cyber Training Document] 
-
+( <br> )
 ## 🛡️ Cybersecurity Engineering Practices – Staff Awareness Guide
 
 Welcome to the team! As stewards of sensitive data, it's our collective responsibility to uphold the highest standards in cybersecurity. This document outlines **essential engineering practices** that every staff member—technical or non-technical—should understand and follow to ensure data confidentiality, integrity, and availability.

@@ -5,9 +5,9 @@
 Here’s a breakdown of key stats from recent 2025 reports:
 - 60% of data breaches involve social engineering as a primary vector
 - 98% of cyberattacks rely on some form of social engineering tactic
-- 91% of cyberattacks begin with a phishing email — a classic social engineering method
+- 91% of cyberattacks begin with a phishing email; a classic social engineering method
 - Over 80% of data breaches involve human error, often triggered by social engineering
-💡 These numbers highlight that human behavior is often the weakest link in cybersecurity — not the tech itself. That’s why awareness training, phishing simulations, and behavioral analytics are now considered essential layers of defense.
+💡 These numbers highlight that human behavior is often the weakest link in cybersecurity; not the tech itself. That’s why awareness training, phishing simulations, and behavioral analytics are now considered essential layers of defense.
 
 ## 📚 References
 
@@ -25,7 +25,7 @@ Here’s a breakdown of key stats from recent 2025 reports:
  <br>  <br> 
 ## 🛡️ Cybersecurity Engineering Practices – Staff Awareness Guide
  <br> 
-Welcome to the team! As stewards of sensitive data, it's our collective responsibility to uphold the highest standards in cybersecurity. This document outlines **essential engineering practices** that every staff member—technical or non-technical—should understand and follow to ensure data confidentiality, integrity, and availability.
+Welcome to the team! As stewards of sensitive data, it's our collective responsibility to uphold the highest standards in cybersecurity. This document outlines **essential engineering practices** that every staff member—technical or non-technical should understand and follow to ensure data confidentiality, integrity, and availability.
 
 #### 🔑 Core Principles
 

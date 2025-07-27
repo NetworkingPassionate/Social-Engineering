@@ -9,11 +9,15 @@ Here’s a breakdown of key stats from recent 2025 reports:
 - Over 80% of data breaches involve human error, often triggered by social engineering
 💡 These numbers highlight that human behavior is often the weakest link in cybersecurity — not the tech itself. That’s why awareness training, phishing simulations, and behavioral analytics are now considered essential layers of defense.
 
+## 📚 References
+
+1. Gitnux Market Data Report 2025 – [Social Engineering Statistics](https://gitnux.org/social-engineering-attacks-statistics/)
+2. IdentityTheft.org – [Phishing Facts & Trends](https://identitytheft.org/statistics/)
+3. Infosec Institute – [Human Error in Data Breaches](https://www.infosecinstitute.com/resources/security-awareness/human-error-responsible-data-breaches/)
  <br> 
 
 ---
 
-  
   
   <br>
   

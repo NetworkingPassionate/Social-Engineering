@@ -37,32 +37,32 @@ Welcome to the team! As stewards of sensitive data, it's our collective responsi
 
 ### 🧠 Staff Responsibilities
 
-#### 🔐 1. Access Control & Authentication
+####  1. Access Control & Authentication
 - Use strong, unique passwords and change them regularly
 - Enable Multi-Factor Authentication (MFA) where supported
 - Report orphaned or unused accounts for deactivation
 
-#### 🚫 2. Secure Device & Endpoint Usage
+####  2. Secure Device & Endpoint Usage
 - Lock devices when unattended
 - Avoid plugging unknown USB devices into work machines
 - Run approved antivirus and endpoint protection tools
 
-#### 🧼 3. Data Handling Hygiene
+####  3. Data Handling Hygiene
 - Only store sensitive data in encrypted locations
 - Avoid sending confidential files over unverified email or chat platforms
 - Label data correctly (e.g., "Internal Use Only", "Confidential")
 
-#### 🧪 4. Awareness of Social Engineering
+####  4. Awareness of Social Engineering
 - Never share credentials via phone, email, or messaging apps
 - Be wary of unsolicited requests, even if they appear legitimate
 - Report suspicious emails, messages, or calls immediately
 
-#### 🛠 5. Software & Patch Management
+####  5. Software & Patch Management
 - Keep your systems and applications updated
 - Reboot regularly after updates are applied
 - Do not install unverified third-party apps or browser extensions
 
-#### 🔍 6. Logging & Incident Reporting
+####  6. Logging & Incident Reporting
 - Know what types of activity are monitored (e.g., login attempts, downloads)
 - Immediately report any unusual system behavior or suspected breaches
 - Use the provided incident report template for quick documentation
@@ -71,7 +71,7 @@ Welcome to the team! As stewards of sensitive data, it's our collective responsi
 
 ### 🛡️ Engineering-Led Safeguards
 
-These are built into our infrastructure and maintained by IT & SecOps teams—but staff play a critical role in their effectiveness:
+These are built into our infrastructure and maintained by IT & SecOps teams; but staff play a critical role in their effectiveness:
 
 - **Firewall rules**: Restrict external access based on IP and protocol
 - **SIEM monitoring**: Detect anomalies in system logs and trigger alerts
